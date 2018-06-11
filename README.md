@@ -10,3 +10,6 @@ Pour pouvoir suivre ces cours correctement, vous avez besoin d'installer les log
 - le logiciel R
 - la distribution anaconda pour installer Python en version 3.6 ou plus (pas la version 2).
 
+# Fonctionnement de la formation
+Consultez très régulièrement votre messagerie, à l'adresse que vous avez communiqué lors de votre inscription. Les informations importantes vous seront transmises par ce biais.
+
