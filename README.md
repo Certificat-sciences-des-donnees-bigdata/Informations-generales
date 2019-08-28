@@ -1,7 +1,7 @@
 # Informations-generales
 Retrouver ici les informations générales sur le certificat.
 
-**Bienvenue à tous dans la première édition du certificat "Sciences des données et big data - outils et introduction".**
+**Bienvenue à tous dans la deuxième édition du certificat "Sciences des données et big data - outils et introduction".**
 
 Cette plateforme est le point central pour les enseignements en elearning. Vous pourrez, dans les différents répertoires créés, accéder aux contenus de cours elearning du certificat. Les contenus sont accessibles dans les répertoires "sensibilisation" et "immersion" de ce site. Le calendrier des apprentissages y est indiqué.
 
@@ -15,6 +15,8 @@ En plus des conférences, le programme comprend un premier module de sensibilisa
 Pour pouvoir suivre ces cours correctement, vous avez besoin d'installer les logiciels suivants:
 - le logiciel R
 - la distribution anaconda pour installer Python en version 3.6 ou plus (pas la version 2).
+
+Pour exécuter les codes, [la platforme Colab](https://colab.research.google.com)  peut aussi être utilisée.
 
 L'installation de ces logiciels est expliqué dans le répertoire sensibilisation.
 
