@@ -16,7 +16,7 @@ Pour pouvoir suivre ces cours correctement, vous avez besoin d'installer les log
 - le logiciel R
 - la distribution anaconda pour installer Python en version 3.6 ou plus (pas la version 2).
 
-Pour exécuter les codes, [la platforme Colab](https://colab.research.google.com)  peut aussi être utilisée.
+Pour exécuter les codes, [Colab](https://colab.research.google.com)  peut aussi être utilisée.
 
 L'installation de ces logiciels est expliqué dans le répertoire sensibilisation.
 
