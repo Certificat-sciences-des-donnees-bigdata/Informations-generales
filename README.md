@@ -1,7 +1,7 @@
 # Informations-generales
 Retrouvez ici les informations générales sur le certificat.
 
-**Bienvenue à tous dans la deuxième édition du certificat "Sciences des données et big data - outils et introduction".**
+**Bienvenue à tous dans la troisième édition du certificat "Sciences des données et big data - outils et introduction".**
 
 Cette plateforme est le point central pour les enseignements en e-learning. Vous pourrez, dans les différents répertoires créés, accéder aux contenus de cours e-learning du certificat. Les contenus sont accessibles dans les répertoires "sensibilisation" et "immersion" de ce site. Le calendrier des apprentissages y est indiqué.
 
